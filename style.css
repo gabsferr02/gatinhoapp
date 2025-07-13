@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #fce4ec;
+  padding: 40px;
+}
+
+h1 {
+  color: #880e4f;
+}
+
+button {
+  background-color: #ec407a;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #d81b60;
+}
+
+.imagem-container {
+  margin-top: 30px;
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
